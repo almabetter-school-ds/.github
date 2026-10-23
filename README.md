@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/learning-showcase-banner.png" alt="Illustration of technology learning, practical projects, and career growth" width="100%" />
+<img src="https://raw.githubusercontent.com/almabetter-school-ds/.github/main/profile/assets/learning-showcase-banner.png" alt="Illustration of technology learning, practical projects, and career growth" width="100%" />
 </p>
 
 <h1 align="center">AlmaBetter School</h1>
