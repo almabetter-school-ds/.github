@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Data%20%26%20Analytics-Discover-292733?style=for-the-badge" alt="Data and analytics" />
     <img src="https://img.shields.io/badge/Software%20Engineering-Build-FB7185?style=for-the-badge" alt="Software engineering" />
   </p>
-  <img src="https://raw.githubusercontent.com/almabetter-school-ds/.github/main/profile/assets/learning-journey-visual.jpg" alt="Technology learning, analytics, practical projects, and career growth" width="100%" />
+  <img width="1392" height="783" alt="learning-journey-visual" src="https://github.com/user-attachments/assets/351160ea-8ffa-4e21-8a89-1797c6dbf37f" />
 </div>
 
 ---
