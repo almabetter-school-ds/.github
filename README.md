@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/almabetter-school-ds/.github/main/profile/assets/almabetter-brand-lockup.png" alt="AlmaBetter — For a better tomorrow" width="440" />
-  <h1>Learn. Build. Grow.</h1>
+<img width="810" height="158" alt="almabetter-brand-lockup" src="https://github.com/user-attachments/assets/bdf2ce2b-cd0d-47ba-b809-974edaf59310" />
+ <h1>Learn. Build. Grow.</h1>
   <p><strong>Real skills. Real projects. A better tomorrow.</strong></p>
   <p>Explore practical work across AI, Data Science, Software Engineering, and modern technology.</p>
   <p>
