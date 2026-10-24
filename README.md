@@ -3,11 +3,11 @@
  <h1>Learn. Build. Grow.</h1>
   <p><strong>Real skills. Real projects. A better tomorrow.</strong></p>
   <p>Explore practical work across AI, Data Science, Software Engineering, and modern technology.</p>
-  <p>
+  <!-- <p>
     <a href="https://almabetter.com/">Website</a> ·
     <a href="https://almabetter.com/courses">Explore learning paths</a> ·
     <a href="https://github.com/almabetter-school-ds?tab=repositories">Browse repositories</a>
-  </p>
+  </p> -->
   <p>
     <img src="https://img.shields.io/badge/AI%20%26%20Intelligent%20Systems-Explore-F43F5E?style=for-the-badge" alt="AI and intelligent systems" />
     <img src="https://img.shields.io/badge/Data%20%26%20Analytics-Discover-292733?style=for-the-badge" alt="Data and analytics" />
