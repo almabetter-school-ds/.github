@@ -73,6 +73,6 @@ Ideas become valuable when you build, test, refine, and share them. This GitHub 
 
 <div align="center">
   <strong>Learn with purpose. Build with practice. Grow through what you create.</strong><br />
-  <a href="https://almabetter.com/">almabetter.com</a> ·
-  <a href="https://github.com/almabetter-school-ds?tab=repositories">AlmaBetter School on GitHub</a>
+  <!-- <a href="https://almabetter.com/">almabetter.com</a> ·
+  <a href="https://github.com/almabetter-school-ds?tab=repositories">AlmaBetter School on GitHub</a> -->
 </div>
